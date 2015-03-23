@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "CharliePhang",
-    "repositoryName": "blog",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"CharliePhang","repositoryName":"blog","branch":"gh-pages"},"site":{"title":"Chalypeng's Blog","description":"More better, more simple...","disqus":"chalypeng","url":"https://CharliePhang.github.io/blog"},"socialnetwork":{},"theme":{"name":"Casper","url":"//CharliePhang.github.io/blog/themes/Casper"}}
